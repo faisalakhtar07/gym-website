@@ -1,4 +1,4 @@
-const secretCode = "1234";
+const secretCode = "FREE";
 
 function loginUser() {
 
